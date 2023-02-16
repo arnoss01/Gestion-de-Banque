@@ -1,0 +1,5 @@
+ID			NOM			PRENOM			LOGIN			MOT DE PASS			CIN			EMAIL			TELEPHONE			SEXE			ID_AGENCE
+1			Elhaddad	Anas		anas		1234		AE297635			Elhaddadanas@gmail.com	0651057313		HOMME		NULL
+2			Elhaddad	Anas		anas		1234		AE297635			Elhaddadanas@gmail.com	0651057313		HOMME		NULL
+3			Elhaddad	Anas		anas		1234		AE297635			Elhaddadanas@gmail.com	0651057313		HOMME		NULL
+4			Elhaddad	Anas		anas		1234		AE297635			Elhaddadanas@gmail.com	0651057313		HOMME		NULL
